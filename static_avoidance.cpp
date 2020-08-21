@@ -26,7 +26,7 @@ class StaticAvoidance{
         geometry_msgs::Point nearest_segment_center_point_;
         geometry_msgs::Point WayPoint_Marker;
         geometry_msgs::Point SegmentVector;
-        
+        //test
         // Values
         float DISTANCE = 100;
         float SPEED = 0;
